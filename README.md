@@ -16,4 +16,7 @@ Simple test to see if its working
 
    docker run test1-python-app
 
+From DockerHub
+docker run -p 80:80 --name hello_python darkjus/program-1
+
 
