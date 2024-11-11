@@ -10,5 +10,10 @@ Simple test to see if its working
 
 3. Build the Docker image:
 
-   ```bash
    docker build -t test1-python-app .
+
+4. Run the Image
+
+   docker run test1-python-app
+
+
